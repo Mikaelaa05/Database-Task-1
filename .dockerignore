@@ -21,7 +21,7 @@
 **/*.jfm
 **/charts
 **/docker-compose*
-#**/compose.y*ml
+**/compose.y*ml
 !**/composer.json
 !**/composer.lock
 **/Dockerfile*
@@ -30,6 +30,6 @@
 **/obj
 **/secrets.dev.yaml
 **/values.dev.yaml
-#**/vendor
+**/vendor
 LICENSE
 README.md
