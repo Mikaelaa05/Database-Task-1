@@ -1,5 +1,7 @@
 <?php
 
+// TODO --> Fix postgreChecker
+
 $host = "host.docker.internal"; 
 $port = "5112";
 $username = "user";

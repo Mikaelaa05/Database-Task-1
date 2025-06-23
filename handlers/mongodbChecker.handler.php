@@ -1,4 +1,5 @@
 <?php
+// TODO --> Fix mongodbChecker
 try {
     $mongo = new MongoDB\Driver\Manager("mongodb://host.docker.internal:27017");
 
